@@ -1,0 +1,32 @@
+@media (max-width: 991px) {
+  nav{
+    background: #1f1f1f !important;
+    color: aliceblue;
+  }
+  .thought{
+    min-height: 150px;
+    padding: 1rem 0 !important;
+  }
+  .thought-text{
+    font-size: 2.5rem;
+  }
+
+  .nav-work{
+    margin: 1.92px;
+    font-size: 1rem;        
+  }
+
+  .author{
+    font-size: .7rem;
+  }
+
+  .col-mg-06{
+    
+  }
+}
+@media (max-width: 768px) {}
+@media (max-width: 576px) {
+  nav{
+    background: #1f1f1f !important;
+  }
+}
